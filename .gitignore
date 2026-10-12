@@ -1,0 +1,31 @@
+# Stock 3.3.5a client files. Only Wow.exe and Data/patch-4.MPQ and later
+# belong to this repo; everything else comes from the base client install.
+
+# Base game archives
+/Data/common.MPQ
+/Data/common-2.MPQ
+/Data/expansion.MPQ
+/Data/lichking.MPQ
+/Data/patch.MPQ
+/Data/patch-2.MPQ
+/Data/patch-3.MPQ
+/Data/enUS/
+
+# Stock binaries
+/*.dll
+/Repair.exe
+/WowError.exe
+/Launcher.exe
+/BackgroundDownloader.exe
+
+# Backups of Wow.exe
+*.bak
+
+# Runtime and per-user data
+/Cache/
+/Logs/
+/Errors/
+/Screenshots/
+/WTF/
+/Interface/
+*.dxvk-cache
