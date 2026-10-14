@@ -4,13 +4,20 @@ Files for a World of Warcraft 3.3.5a (12340) enUS client.
 
 ## Install
 
-1. Copy `Wow.exe` over the one in your WoW folder (keep a backup of the original).
-2. Copy everything in `Data/` into your WoW `Data/` folder.
-3. Delete the `Cache/` folder in your WoW folder.
+1. Put `Wow.exe` in your WoW folder in place of the old one (keep a copy of the original if you like).
+2. Start it. The first start downloads the `Data/patch-*.MPQ` files from
+   https://warlordhermes.dynv6.net/client/ before the game opens.
 
-When files here are updated, copy them again and delete `Cache/` again.
+From then on `Wow.exe` keeps itself and the patch files up to date at every start, restarts
+itself into a new update when it sits at the login screen, clears `Cache/` when the realm's
+data changes, and always connects to the Deus realm (no realmlist to edit). Its log is
+`Logs/DeusUpdate.log`; `Wow.exe -noupdate` skips the check once.
 
-## What the archives hold
+Manual install (no updater, or to repair by hand): download the archives from
+`https://warlordhermes.dynv6.net/client/files/Data/<name>` (list:
+https://warlordhermes.dynv6.net/client/manifest.txt) into your `Data/` folder and delete `Cache/`.
+
+## What the archives hold (downloaded by Wow.exe)
 
 | File | Contents |
 | --- | --- |
