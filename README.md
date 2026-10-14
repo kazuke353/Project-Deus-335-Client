@@ -26,4 +26,5 @@ https://warlordhermes.dynv6.net/client/manifest.txt) into your `Data/` folder an
 | `patch-6.MPQ` - `patch-9.MPQ` | cosmetics: models, textures and their data |
 | `patch-A.MPQ` | transmogrification window |
 | `patch-B.MPQ` | item stat rolls |
-| `patch-C.MPQ` | spell, talent and item data; must load last |
+| `patch-C.MPQ` | spell, talent and item data; must load after the cosmetics archives |
+| `patch-D.MPQ` | character models: every race kneels and feeds when channelling Cannibalize |
