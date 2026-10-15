@@ -22,9 +22,9 @@ https://warlordhermes.dynv6.net/client/manifest.txt) into your `Data/` folder an
 | File | Contents |
 | --- | --- |
 | `patch-4.MPQ` | game data tables (DBC) for the classless realm |
-| `patch-5.MPQ` | interface: Classless and Racials window, specs, glyph shop, Wilderness zone text, casino table |
+| `patch-5.MPQ` | interface: Classless and Racials window, specs, glyph shop, Wilderness zone text, casino table, zone event tracker, dance emote commands |
 | `patch-6.MPQ` - `patch-9.MPQ` | cosmetics: models, textures and their data |
 | `patch-A.MPQ` | transmogrification window |
 | `patch-B.MPQ` | item stat rolls |
 | `patch-C.MPQ` | spell, talent and item data; must load after the cosmetics archives |
-| `patch-D.MPQ` | character models: every race kneels and feeds when channelling Cannibalize |
+| `patch-D.MPQ` | character models: every race kneels and feeds when channelling Cannibalize, and dances the Orange Justice (`/oj`) |
