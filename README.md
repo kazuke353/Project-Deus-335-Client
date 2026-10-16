@@ -22,7 +22,7 @@ https://warlordhermes.dynv6.net/client/manifest.txt) into your `Data/` folder an
 | File | Contents |
 | --- | --- |
 | `patch-4.MPQ` | game data tables (DBC) for the classless realm |
-| `patch-5.MPQ` | interface: Classless and Racials window, specs, glyph shop, Wilderness zone text, casino table, zone event tracker, dance emote commands |
+| `patch-5.MPQ` | interface: Classless and Racials window, specs, glyph shop, Wilderness zone text, casino table, zone event tracker, dance emote commands, level-up unlocks display |
 | `patch-6.MPQ` - `patch-9.MPQ` | cosmetics: models, textures and their data |
 | `patch-A.MPQ` | transmogrification window |
 | `patch-B.MPQ` | item stat rolls |
