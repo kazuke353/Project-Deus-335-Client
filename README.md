@@ -27,5 +27,5 @@ https://warlordhermes.dynv6.net/client/manifest.txt) into your `Data/` folder an
 | `patch-A.MPQ` | transmogrification window |
 | `patch-B.MPQ` | item stat rolls |
 | `patch-C.MPQ` | spell, talent and item data; must load after the cosmetics archives |
-| `patch-D.MPQ` | character models: every race kneels and feeds when channelling Cannibalize, and dances the Orange Justice (`/oj`) |
+| `patch-D.MPQ` | character models: every race kneels and feeds when channelling Cannibalize, and dances the Orange Justice (`/oj`) and Dance Moves (`/dm`, `/dancemoves`, `/defaultdance`) |
 | `patch-E.MPQ` | login, character select and character create screens: the Deus keep in Stormwind |
