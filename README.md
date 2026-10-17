@@ -17,7 +17,10 @@ Manual install (no updater, or to repair by hand): download the archives from
 `https://warlordhermes.dynv6.net/client/files/Data/<name>` (list:
 https://warlordhermes.dynv6.net/client/manifest.txt) into your `Data/` folder and delete `Cache/`.
 
-## What the archives hold (downloaded by Wow.exe)
+The patch archives are in this repo too (`Data/`), so **Code -> Download ZIP** gets the whole
+set; the updater keeps them current afterwards.
+
+## What the archives hold
 
 | File | Contents |
 | --- | --- |

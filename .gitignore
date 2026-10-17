@@ -1,7 +1,6 @@
-# Only Wow.exe and the README belong to this repo. The patch archives in Data/ stay in this
-# folder because the website serves them from here (/client/files/, read by the Wow.exe
-# updater), but they are not versioned: players get them from the updater.
-/Data/patch-*.MPQ
+# This repo is the Deus client download (GitHub's "Download ZIP"): Wow.exe, the Deus loader
+# dinput8.dll beside it, and the realm's patch archives in Data/. The website serves the same
+# files to the updater (/client/files/), so committing here and publishing are the same files.
 /.cache-bump
 
 # Stock 3.3.5a client files; they come from the base client install.
@@ -16,8 +15,9 @@
 /Data/patch-3.MPQ
 /Data/enUS/
 
-# Stock binaries
+# Stock binaries (the Deus dinput8.dll is ours)
 /*.dll
+!/dinput8.dll
 /Repair.exe
 /WowError.exe
 /Launcher.exe
