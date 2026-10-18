@@ -29,3 +29,4 @@ Blizzard's DivX decoder inside it (source: `build_dll.py` and `loader/` in wow-3
 | `patch-D.MPQ` | character models: every race kneels and feeds when channelling Cannibalize, and dances the Orange Justice (`/oj`) and Dance Moves (`/dm`, `/dancemoves`, `/defaultdance`) |
 | `patch-E.MPQ` | login, character select and character create screens: the Deus keep in Stormwind; creation in three steps (race, appearance, homeland - start in any of the eight starting zones) |
 | `patch-F.MPQ` | dungeon and raid maps for Classic and Burning Crusade instances ([WDM-patch](https://github.com/Trimitor/WDM-patch) 2.4.5 by Trimitor, shipped as `patch-enUS-M.MPQ` there) |
+| `patch-G.MPQ` | the Collections window (Shift-P, or the horse button on the menu bar): Mounts, Pets, Toy Box and Appearances, shared by every character on the account |
