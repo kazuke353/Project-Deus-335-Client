@@ -8,16 +8,13 @@ Files for a World of Warcraft 3.3.5a (12340) enUS client.
    its folder into your WoW folder, replacing the files there.
 2. Start `Wow.exe`.
 
-At every start `Wow.exe` keeps itself and the `Data/patch-*.MPQ` files up to date, restarts
-itself into a new update when it sits at the login screen, clears `Cache/` when the realm's data
-changes, and always connects to the Deus realm (no realmlist to edit). Its log is
-`Logs/DeusUpdate.log`; `Wow.exe -noupdate` skips the check once.
+From then on the game keeps itself and the `Data/patch-*.MPQ` files up to date at every start,
+restarts itself into a new update when it sits at the login screen, clears `Cache/` when the
+realm's data changes, and always connects to the Deus realm (no realmlist to edit). Its logs are
+`Logs/DeusUpdate.log` and `Logs/DeusLoader.log`; `Wow.exe -noupdate` skips the update check once.
 
-Manual install (no updater, or to repair by hand): the files are listed in
-https://warlordhermes.dynv6.net/client/manifest.txt and downloadable from
-`https://warlordhermes.dynv6.net/client/files/<path>`; delete `Cache/` afterwards.
-
-The patch archives are in this repo too (`Data/`), so the ZIP has the whole set.
+`Wow.exe` here is Blizzard's own. The Deus changes are in `DivxDecoder.dll`, which carries
+Blizzard's DivX decoder inside it (source: `build_dll.py` and `loader/` in wow-3.3.5a-fix).
 
 ## What the archives hold
 

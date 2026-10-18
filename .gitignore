@@ -2,6 +2,8 @@
 # dinput8.dll beside it, and the realm's patch archives in Data/. The website serves the same
 # files to the updater (/client/files/), so committing here and publishing are the same files.
 /.cache-bump
+# what the updater serves instead of the checked-in file (deus-web clientdist.OVERRIDE_DIR)
+/.updater-override/
 
 # Stock 3.3.5a client files; they come from the base client install.
 
@@ -15,9 +17,9 @@
 /Data/patch-3.MPQ
 /Data/enUS/
 
-# Stock binaries (the Deus dinput8.dll is ours)
+# Stock binaries (DivxDecoder.dll is the Deus one: Blizzard's decoder inside, plus the Deus loader)
 /*.dll
-!/dinput8.dll
+!/DivxDecoder.dll
 /Repair.exe
 /WowError.exe
 /Launcher.exe
