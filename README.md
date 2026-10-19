@@ -26,9 +26,10 @@ Blizzard's DivX decoder inside it (source: `build_dll.py` and `loader/` in wow-3
 | `patch-A.MPQ` | transmogrification window |
 | `patch-B.MPQ` | item stat rolls |
 | `patch-C.MPQ` | spell, talent and item data; must load after the cosmetics archives |
-| `patch-D.MPQ` | character models: every race kneels and feeds when channelling Cannibalize, and dances 113 Fortnite dances (`/oj`, `/dm`, `/getgriddy`, `/floss`... one command per dance name) |
+| `patch-D.MPQ` | character models: every race kneels and feeds when channelling Cannibalize, and dances 114 Fortnite dances with moving fingers (`/oj`, `/dm`, `/getgriddy`, `/floss`... one command per dance name) |
 | `patch-H.MPQ` | animations ported from Cataclysm Classic |
-| `patch-I.MPQ` | the dances' songs (69 of them; `/dancemusic` turns them off) |
+| `patch-I.MPQ` | the dances' songs (113 of them; `/dancemusic` turns them off) |
+| `patch-J.MPQ` | the later dances' animations (patch-D would pass GitHub's 100 MB file limit) |
 | `patch-E.MPQ` | login, character select and character create screens: the Deus keep in Stormwind; creation in three steps (race, appearance, homeland - start in any of the eight starting zones) |
 | `patch-F.MPQ` | dungeon and raid maps for Classic and Burning Crusade instances ([WDM-patch](https://github.com/Trimitor/WDM-patch) 2.4.5 by Trimitor, shipped as `patch-enUS-M.MPQ` there) |
 | `patch-G.MPQ` | the Collections window (Shift-P, or the horse button on the menu bar): Mounts, Pets, Toy Box and Appearances, shared by every character on the account |
