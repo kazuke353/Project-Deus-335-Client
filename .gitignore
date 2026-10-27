@@ -20,6 +20,8 @@
 # Stock binaries (DivxDecoder.dll is the Deus one: Blizzard's decoder inside, plus the Deus loader)
 /*.dll
 !/DivxDecoder.dll
+# WarcraftXL (loaded by the Deus updater; its extensions are under Extensions/)
+!/WarcraftXL.dll
 /Repair.exe
 /WowError.exe
 /Launcher.exe

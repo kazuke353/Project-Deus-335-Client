@@ -33,3 +33,16 @@ Blizzard's DivX decoder inside it (source: `build_dll.py` and `loader/` in wow-3
 | `patch-E.MPQ` | login, character select and character create screens: the Deus keep in Stormwind; creation in three steps (race, appearance, homeland - start in any of the eight starting zones) |
 | `patch-F.MPQ` | dungeon and raid maps for Classic and Burning Crusade instances ([WDM-patch](https://github.com/Trimitor/WDM-patch) 2.4.5 by Trimitor, shipped as `patch-enUS-M.MPQ` there) |
 | `patch-G.MPQ` | the Collections window (Shift-P, or the horse button on the menu bar): Mounts, Pets, Toy Box and Appearances, shared by every character on the account; "Already known" on the tooltips of cosmetics the account has |
+| `patch-L.MPQ` | gear with the look of later expansions (retail transmog sets): models, body textures and the 3D pieces WarcraftXL Equip Plus draws |
+
+## WarcraftXL
+
+`WarcraftXL.dll` and `Extensions/` are [WarcraftXL](https://github.com/WarcraftXL/wxl-core) and two of its
+extensions, loaded by the Deus updater when the game starts. All three are free software under the GNU General
+Public License v3; their source is in the linked repositories.
+
+| File | What it does |
+| --- | --- |
+| `WarcraftXL.dll` | [wxl-core](https://github.com/WarcraftXL/wxl-core) v1.1.276 (release build) |
+| `Extensions/wxl-equip-plus/` | [Equip Plus](https://github.com/TheDaveCalaz/wxl-equip-plus) v1.3.0: 3D models on every armour slot (belt buckles, gauntlets, boots) |
+| `Extensions/wxl-unit-outline/` | [Unit Outline](https://github.com/WarcraftXL/wxl-unit-outline) (branch v1.1, commit 4e8123e, built for Deus): a coloured outline around your target and the unit under the mouse |
