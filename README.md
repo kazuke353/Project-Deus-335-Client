@@ -33,6 +33,7 @@ Blizzard's DivX decoder inside it (source: `build_dll.py` and `loader/` in wow-3
 | `patch-E.MPQ` | login, character select and character create screens: the Deus keep in Stormwind; creation in three steps (race, appearance, homeland - start in any of the eight starting zones) |
 | `patch-F.MPQ` | dungeon and raid maps for Classic and Burning Crusade instances ([WDM-patch](https://github.com/Trimitor/WDM-patch) 2.4.5 by Trimitor, shipped as `patch-enUS-M.MPQ` there) |
 | `patch-G.MPQ` | the Collections window (Shift-P, or the horse button on the menu bar): Mounts, Pets, Toy Box and Appearances, shared by every character on the account; "Already known" on the tooltips of cosmetics the account has |
+| `patch-Q.MPQ` - `patch-R.MPQ` | player housing: the house rooms in four styles, 277 pieces of furniture, the House Chest, decorating and floor plan windows, and the Furniture tab of the Collections window |
 | `patch-L.MPQ` | gear with the look of later expansions (retail transmog sets): models, body textures and the 3D pieces WarcraftXL Equip Plus draws |
 
 ## WarcraftXL
