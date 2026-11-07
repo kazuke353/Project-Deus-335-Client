@@ -1,0 +1,126 @@
+{
+ "packs": [
+  {
+   "id": "hd",
+   "title": "HD Models",
+   "files": [
+    {
+     "path": "Data/Optional/HD/patch-A.mpq",
+     "kind": "low",
+     "size": 2747164967,
+     "sha256": "395d35183346cf622c6e80493846a00dd4d3e31ef2e5b5081afb44b170f869a1",
+     "urls": [
+      "https://pub-0f05631d243e4046993fc02ca7be9542.r2.dev/Wrath%20of%20the%20Lich%20King/patches/patch-A.mpq"
+     ]
+    },
+    {
+     "path": "Data/Optional/HD/patch-B.mpq",
+     "kind": "low",
+     "size": 2034221237,
+     "sha256": "0a7c34c6374986f0419ae565b45f6472e3eac77a7a4b378a93bad662005bb648",
+     "urls": [
+      "https://pub-0f05631d243e4046993fc02ca7be9542.r2.dev/Wrath%20of%20the%20Lich%20King/patches/patch-B.mpq"
+     ]
+    },
+    {
+     "path": "Data/Optional/HD/patch-C.mpq",
+     "kind": "low",
+     "size": 2491534526,
+     "sha256": "21e4d10a35aebe3830fcc1a175d566f3c0ebdbcfe01cccffdcb344e0b45a8eef",
+     "urls": [
+      "https://pub-0f05631d243e4046993fc02ca7be9542.r2.dev/Wrath%20of%20the%20Lich%20King/patches/patch-C.mpq"
+     ]
+    },
+    {
+     "path": "Data/Optional/HD/patch-D.mpq",
+     "kind": "low",
+     "size": 3269878119,
+     "sha256": "361c78f5d6f258440ff3c33ad4f6133e06c6825ac46709ccb7f904c256a33623",
+     "urls": [
+      "https://pub-0f05631d243e4046993fc02ca7be9542.r2.dev/Wrath%20of%20the%20Lich%20King/patches/patch-D.mpq"
+     ]
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-dbc.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-dbc.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-models-1.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-models-1.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-models-2.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-models-2.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-models-3.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-models-3.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-models-4.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-models-4.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-models-5.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-models-5.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-models-6.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-models-6.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-models-7.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-models-7.MPQ"
+    }
+   ]
+  },
+  {
+   "id": "forever",
+   "title": "Forever Look",
+   "files": [
+    {
+     "path": "Data/Optional/Forever/patch-E.mpq",
+     "kind": "low",
+     "size": 2267864051,
+     "sha256": "4dbc3c990843d37e4bda5c466e6380a0b3feed09a6a3fb92c5cf95da8f7604c3",
+     "urls": [
+      "https://pub-0f05631d243e4046993fc02ca7be9542.r2.dev/Wrath%20of%20the%20Lich%20King/patches/patch-E.mpq"
+     ]
+    },
+    {
+     "path": "Data/Optional/Forever/deus-forever-dbc.MPQ",
+     "kind": "high",
+     "local": "Forever/deus-forever-dbc.MPQ"
+    },
+    {
+     "path": "Data/Optional/Forever/LuxVelum.dll",
+     "kind": "dll",
+     "local": "Forever/LuxVelum.dll"
+    },
+    {
+     "path": "Data/Optional/Forever/fogdata.bin",
+     "kind": "data",
+     "local": "Forever/fogdata.bin"
+    },
+    {
+     "path": "Data/Optional/Forever/waterdata.bin",
+     "kind": "data",
+     "local": "Forever/waterdata.bin"
+    },
+    {
+     "path": "Data/Optional/Forever/LuxVelum.ini",
+     "kind": "ini",
+     "local": "Forever/LuxVelum.ini"
+    }
+   ]
+  }
+ ]
+}

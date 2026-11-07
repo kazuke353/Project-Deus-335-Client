@@ -38,3 +38,10 @@
 /WTF/
 /Interface/
 *.dxvk-cache
+
+# Optional graphics packs (served by the website from here, see Optional/README.md): only the list is committed,
+# the archives are rebuilt by azerothcore tools/client-patch/build_optional.py
+/Optional/*
+!/Optional/packs.json
+!/Optional/README.md
+!/Optional/LuxVelum-LICENSE.txt
