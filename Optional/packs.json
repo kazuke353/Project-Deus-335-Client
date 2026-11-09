@@ -25,8 +25,8 @@
     {
      "path": "Data/Optional/HD/patch-C.mpq",
      "kind": "low",
-     "size": 2491534526,
-     "sha256": "21e4d10a35aebe3830fcc1a175d566f3c0ebdbcfe01cccffdcb344e0b45a8eef",
+     "size": 2494318381,
+     "sha256": "4e928cd4430beeda57a154110dd5e8830df89478b262d57d924980a70578016d",
      "urls": [
       "https://pub-0f05631d243e4046993fc02ca7be9542.r2.dev/Wrath%20of%20the%20Lich%20King/patches/patch-C.mpq"
      ]
@@ -34,8 +34,8 @@
     {
      "path": "Data/Optional/HD/patch-D.mpq",
      "kind": "low",
-     "size": 3269878119,
-     "sha256": "361c78f5d6f258440ff3c33ad4f6133e06c6825ac46709ccb7f904c256a33623",
+     "size": 3285738661,
+     "sha256": "308bb2c2b81af806ac4fe51de154871050e261c965f1181dd72702e613591c77",
      "urls": [
       "https://pub-0f05631d243e4046993fc02ca7be9542.r2.dev/Wrath%20of%20the%20Lich%20King/patches/patch-D.mpq"
      ]
@@ -89,8 +89,8 @@
     {
      "path": "Data/Optional/Forever/patch-E.mpq",
      "kind": "low",
-     "size": 2267864051,
-     "sha256": "4dbc3c990843d37e4bda5c466e6380a0b3feed09a6a3fb92c5cf95da8f7604c3",
+     "size": 2288943052,
+     "sha256": "1233cabcdfaee9c9e07d96e0a26c80ff0ef072d2b9b14d3c6a0ee3f0afc34425",
      "urls": [
       "https://pub-0f05631d243e4046993fc02ca7be9542.r2.dev/Wrath%20of%20the%20Lich%20King/patches/patch-E.mpq"
      ]
