@@ -20,26 +20,26 @@
   {
    "pack": "hd",
    "letter": "C",
-   "size": 2494318381,
-   "sha256": "4e928cd4430beeda57a154110dd5e8830df89478b262d57d924980a70578016d",
-   "etag": "\"cf0e91496e196fea11d1fb042bdc3f21-238\"",
-   "modified": "Sat, 07 Nov 2026 21:23:43 GMT"
+   "size": 2494619386,
+   "sha256": "90d433d64fac09dffbeb63341affbe28f8fe915e7cdd727638a567cfcaa855d5",
+   "etag": "\"e789d94e81e5b1b0ea7ff8c98e93ea5d-238\"",
+   "modified": "Mon, 09 Nov 2026 13:47:06 GMT"
   },
   {
    "pack": "hd",
    "letter": "D",
-   "size": 3285738661,
-   "sha256": "308bb2c2b81af806ac4fe51de154871050e261c965f1181dd72702e613591c77",
-   "etag": "\"a4faa14e2ced69a9d76da76fb4489321-314\"",
-   "modified": "Sun, 08 Nov 2026 20:03:15 GMT"
+   "size": 3254961065,
+   "sha256": "e420688d4f950a3ab6bb34bc947ec7261b36873d0825e7e240cee1e77a63b4d4",
+   "etag": "\"61adf1bbe902a55049b96eebc3700e12-311\"",
+   "modified": "Mon, 09 Nov 2026 13:47:15 GMT"
   },
   {
    "pack": "forever",
    "letter": "E",
-   "size": 2288943052,
-   "sha256": "1233cabcdfaee9c9e07d96e0a26c80ff0ef072d2b9b14d3c6a0ee3f0afc34425",
-   "etag": "\"fc417dbaca777437e0e6c64783664728-219\"",
-   "modified": "Sat, 07 Nov 2026 21:23:37 GMT"
+   "size": 2290155328,
+   "sha256": "9e4bcba8a0961487cf1200110e9bfc527a7f2aab71403eeabc4aecbe9f14127a",
+   "etag": "\"d9ae7140ed8cbfb168af49ec5d024bdc-219\"",
+   "modified": "Mon, 09 Nov 2026 13:46:58 GMT"
   }
  ]
 }
