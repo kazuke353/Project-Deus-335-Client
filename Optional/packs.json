@@ -79,6 +79,16 @@
      "path": "Data/Optional/HD/deus-hd-models-7.MPQ",
      "kind": "high",
      "local": "HD/deus-hd-models-7.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-models-8.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-models-8.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-models-9.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-models-9.MPQ"
     }
    ]
   },
