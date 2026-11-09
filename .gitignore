@@ -43,5 +43,6 @@
 # the archives are rebuilt by azerothcore tools/client-patch/build_optional.py
 /Optional/*
 !/Optional/packs.json
+!/Optional/sources.json
 !/Optional/README.md
 !/Optional/LuxVelum-LICENSE.txt
