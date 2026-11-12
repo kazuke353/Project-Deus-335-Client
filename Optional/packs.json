@@ -116,6 +116,11 @@
      "local": "Forever/deus-forever-dbc.MPQ"
     },
     {
+     "path": "Data/Optional/Forever/deus-forever-lookup.MPQ",
+     "kind": "high",
+     "local": "Forever/deus-forever-lookup.MPQ"
+    },
+    {
      "path": "Data/Optional/Forever/LuxVelum.dll",
      "kind": "dll",
      "local": "Forever/LuxVelum.dll"
