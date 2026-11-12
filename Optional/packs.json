@@ -46,6 +46,11 @@
      "local": "HD/deus-hd-dbc.MPQ"
     },
     {
+     "path": "Data/Optional/HD/deus-hd-lookup.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-lookup.MPQ"
+    },
+    {
      "path": "Data/Optional/HD/deus-hd-models-1.MPQ",
      "kind": "high",
      "local": "HD/deus-hd-models-1.MPQ"
