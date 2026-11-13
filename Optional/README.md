@@ -11,8 +11,10 @@ the loader (DivxDecoder.dll, wow-3.3.5a-fix loader/gfx.c) downloads them in the 
   always download those archives from the host, never from our server.
 - `HD/`: our merged tables + HD character models with the Deus animations (the HD archives themselves come
   from their own host).
-- `Forever/`: merged Light tables + LuxVelum (https://github.com/Raz0r1337/Luxvelum, GPL-3.0, release build-1;
-  licence in LuxVelum-LICENSE.txt). Our LuxVelum.ini defaults: Overlay=0 (settings live in the game's options
-  instead of Ctrl+F7), ForeverGlow=1, ColorGrading=0.5.
+- `Forever/`: merged Light tables + LuxVelum, our modified build: source https://github.com/kazuke353/LuxVelum
+  (branch `deus`, GPL-3.0, from https://github.com/Raz0r1337/Luxvelum build-1; licence in LuxVelum-LICENSE.txt).
+  The fork shadows the fog's sunlight by walls and hills (`SunShadow`) and gives missed water reflections the scene
+  in their direction instead of bright sky. Our LuxVelum.ini defaults: Overlay=0 (settings live in the game's
+  options instead of Ctrl+F7), ForeverGlow=1, ColorGrading=0.5, TransparentFog=1.
 
 The big files here are not committed (see .gitignore); they are rebuilt by build_optional.py.
