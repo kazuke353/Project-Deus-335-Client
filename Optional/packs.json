@@ -46,6 +46,36 @@
      "local": "HD/deus-hd-dbc.MPQ"
     },
     {
+     "path": "Data/Optional/HD/deus-hd-gear-1.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-gear-1.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-gear-2.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-gear-2.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-gear-3.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-gear-3.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-gear-4.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-gear-4.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-gear-5.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-gear-5.MPQ"
+    },
+    {
+     "path": "Data/Optional/HD/deus-hd-gear-6.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-gear-6.MPQ"
+    },
+    {
      "path": "Data/Optional/HD/deus-hd-lookup.MPQ",
      "kind": "high",
      "local": "HD/deus-hd-lookup.MPQ"
