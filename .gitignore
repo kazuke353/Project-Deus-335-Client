@@ -46,3 +46,8 @@
 !/Optional/sources.json
 !/Optional/README.md
 !/Optional/LuxVelum-LICENSE.txt
+# the HD Models pack's copies of the retail gear's collection pieces: built on the gaming PC (the gear porter takes
+# hours on the server PC), so they come here; the rest of Optional/HD is still rebuilt on the server
+!/Optional/HD/
+/Optional/HD/*
+!/Optional/HD/deus-hd-gear-*.MPQ
