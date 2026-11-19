@@ -41,6 +41,11 @@
      ]
     },
     {
+     "path": "Data/Optional/HD/deus-hd-bakes.MPQ",
+     "kind": "high",
+     "local": "HD/deus-hd-bakes.MPQ"
+    },
+    {
      "path": "Data/Optional/HD/deus-hd-dbc.MPQ",
      "kind": "high",
      "local": "HD/deus-hd-dbc.MPQ"
